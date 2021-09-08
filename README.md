@@ -4,7 +4,7 @@ A text-based RPG game set in Hogwarts with an engaging storyline. A python modul
 
 ## Description
 
-As part of a cl
+A small D&D-like game where the player can navigate a grid and encounter monsters, with an option to flee or fight.
 
 ## Getting Started
 
@@ -26,23 +26,6 @@ Mahan Esmaeilzadeh: [https://mahan-esmaeilzadeh.tech/](https://mahan-esmaeilzade
 
 Max Baier: https://github.com/MaxAndersonBaier
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+This project would not have existed without the guidance of our Python instructor [Chris Thompson](https://github.com/chris-thompson).
